@@ -35,6 +35,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1_663JtkVi58F4HFsrfzeL0cy8Y4Z5A_e/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-00F7FF?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -48,6 +54,8 @@ modern, responsive and useful web applications.
 - 🎨 Interested in clean UI/UX and product-focused development
 - 🌱 Always exploring new technologies and development practices
 - ☕ Powered by coffee and debugging
+
+📄 **[Download / view my resume](https://drive.google.com/file/d/1_663JtkVi58F4HFsrfzeL0cy8Y4Z5A_e/view?usp=sharing)**
 
 ---
 
@@ -117,21 +125,21 @@ An interactive browser-based simulation of the Solar System with animated planet
 
 ---
 
-### 🏥 Healthcare Follow-Up System
+### 🏭 Taraknath Engineering Works — Industrial Company Website
 
-A web-based healthcare management system designed to help manage patients and follow-up information efficiently.
+A full company website for an ISO-certified Kolkata-based manufacturer, built to showcase its product range and take quote requests.
 
 **Highlights**
 
-- 👨‍⚕️ Patient management
-- 📋 Patient follow-up tracking
-- 🔎 Patient information management
-- 🌐 Deployed as a web application
-- 📱 Responsive interface
+- 🧱 Next.js 14 (App Router) with dynamic product category pages
+- 🔍 Product detail pages with image zoom and thumbnail navigation
+- 🤝 Auto-scrolling customer logo marquee
+- 📨 Request-for-quote (RFQ) API, covered by a 19-test Jest/Supertest suite
+- 📱 Responsive, industrial red/white/grey design
 
-**Tech:** React • JavaScript • Web APIs
+**Tech:** Next.js • React • Node.js • Tailwind CSS • Jest
 
-[🔗 Live Demo](https://healthcare-followup-system.vercel.app/patients) • [📂 Source Code](https://github.com/Deborato4113/healthcare-followup-system)
+[🔗 Live Demo](YOUR_LIVE_DEMO_URL) • [📂 Source Code](YOUR_REPO_URL)
 
 ---
 
@@ -191,3 +199,4 @@ Backend Development
 System Design
    ↓
 Scalable Full-Stack Applications
+```
