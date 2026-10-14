@@ -257,14 +257,6 @@ I'm a **Computer Science Engineering student at KIIT** and a **HubSpot Developme
   <img src="https://streak-stats.demolab.com?user=Deborato4113&theme=tokyonight&hide_border=true" />
 </p>
 
-<details>
-  <summary><b>📈 Show contribution activity graph</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deborato4113&theme=tokyo-night&hide_border=true&area=true" />
-  </p>
-</details>
-
 ---
 
 ## 🌱 Currently Learning
