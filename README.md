@@ -288,7 +288,9 @@ I'm a **Computer Science Engineering student at KIIT** and a **HubSpot Developme
 </p>
 
 <p align="center">
-  <b>📞 Call me: +919735895530</b>
+  <a href="https://deboratochaudhury.vercel.app/call.html">
+    <img src="https://img.shields.io/badge/%F0%9F%93%9E%20Call%20me%20%E2%80%A2%20%2B91%2097358%2095530-25D366?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
