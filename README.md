@@ -296,6 +296,12 @@ I'm a **Computer Science Engineering student at KIIT** and a **HubSpot Developme
 </p>
 
 <p align="center">
+  <a href="tel:+919735895530">
+    <img src="https://img.shields.io/badge/%F0%9F%93%9E%20%2B91--9735895530-25D366?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/deborato-chaudhury/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
